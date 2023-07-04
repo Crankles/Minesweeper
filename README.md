@@ -20,3 +20,5 @@ Only in-built methods and no external packages are used so base python is suffic
 - Passed 2-dimensional list need not be square but each sub-list must be of equal length
 
 Example input and output:
+
+![image](https://github.com/Crankles/finalCapstone/assets/45804891/9970a6a0-2207-49ed-a61d-b011a1b071a6)
