@@ -9,7 +9,7 @@ A Python function that when passed a 2-dimensional list of:
 
 Will return the same list but each `-` replaced with an integer to represent the number of adjacent mines, akin to the game minesweeper.
 
-Such a function could potentially be used in creating a version of the game minesweeper exclusively in python.
+Such a function could potentially be used in creating a version of the game minesweeper exclusively in Python.
  
 ## Installation
 
