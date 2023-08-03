@@ -1,4 +1,4 @@
-# finalCapstone
+# Minesweeper
 
 A Python function that when passed a 2-dimensional list of: 
 
