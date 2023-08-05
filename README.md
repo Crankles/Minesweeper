@@ -1,5 +1,6 @@
 # Minesweeper
 A function that creates a minesweeper field
+
 ---
 
 A Python function that when passed a 2-dimensional list of: 
